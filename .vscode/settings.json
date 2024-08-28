@@ -1,0 +1,8 @@
+{
+    // "files.autoSave": "onWindowChange",
+    // "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#7B61FF", // 임시
+    }
+  }
+  
